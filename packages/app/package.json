@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-svelte": "3.1.0-pre.7",
+    "snowpack": "^3.1.0-pre.10",
+    "svelte": "^3.34.0",
+    "svelte-hmr": "^0.12.7",
+    "component": "workspace:*"
+  }
+}
